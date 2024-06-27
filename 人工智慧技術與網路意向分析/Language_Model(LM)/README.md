@@ -8,12 +8,14 @@ Tool:
 (1) N-gram
 (2) Hidden Markov Model (HMM)
 
+
 2. 基於深度學習的語言模型
 (1) Transformer
 (2) Bert
 (3) 使用 Bert 預訓練模型
 
-4. Application
+
+3. Application
 (1) Transformer - 估計隱蔽字，以及機率（信心）程度
 (2) 使用 pytorch建立命名實體識別器
 (3) 使用 Huggingface 上的模型進行詞性標註（POS-tagging）
